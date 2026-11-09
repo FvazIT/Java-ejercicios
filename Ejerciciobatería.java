@@ -16,8 +16,7 @@ public class Ejerciciobatería {
     public static void main(String[] args) {
 
    int bateria=25;
-   int rand=0;
-   int cont=0;
+   int rand=0; cont=0;
    boolean avion=false;
    
     do{
