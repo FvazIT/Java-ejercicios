@@ -19,7 +19,7 @@ public class EjerciciosIF {
 
        //Ejercicio 1 pares e impares: 
         
-        Scanner sc = new Scanner (System.in);
+       /* Scanner sc = new Scanner (System.in);
         System.out.println("introduzca numero: ");
       
         int num = sc.nextInt();
@@ -31,7 +31,7 @@ public class EjerciciosIF {
             }
         }else{
                 System.out.println("El número es impar");
-                }
+                }*/
 
  /* Ejercicio 2:
     
