@@ -15,7 +15,7 @@ public class EjercicioWhile {
      */
     public static void main(String[] args) {
 
-
+//Buscamos hacer un juego para tirar un dado
 //dado d20     si sale 5 mensaje     si no sale tira de nuevo
       
 
