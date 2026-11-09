@@ -23,7 +23,7 @@ public class Perimetro {
         System.out.println("Area es: " + area);
         
         
-      /*     Scanner sc = new Scanner (System.in);
+      /* Scanner sc = new Scanner (System.in);
         //declaracion de variables
          final double  valorpi = 3.14;
         //uso de math//
@@ -39,7 +39,7 @@ public class Perimetro {
          
  // así sería declarando todas las variables y no usando la formula en el sout
  
-/*        double area = valorpi * radio * radio;
+/*      double area = valorpi * radio * radio;
         //area = Math.Pi * Math.pow (radio, 2);//
         double  perimetro = 2 * valorpi * radio;
         System.out.println("perimetro es: " + perimetro);  
